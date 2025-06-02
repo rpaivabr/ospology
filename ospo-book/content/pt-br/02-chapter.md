@@ -4,14 +4,14 @@ status: Completed
 weight: 40
 ---
 
-- [Introduction](#introduction)
+- [Introdução](#introduction)
 - [How Could Your OSPO Add Value?](#how-could-your-ospo-add-value)
 - [Applying This to Your Organization](#applying-this-to-your-organization)
 - [Examples of the OSPO's value](#examples-of-the-ospos-value)
 - [Possible Problems and how to Overcome Them](#possible-problems-and-how-to-overcome-them)
 - [Resources and Footnotes](#resources-and-footnotes)
 
-## Introduction
+## Introdução
 
 Your organization probably already has a relationship with open source, even if it's not aware of it. Almost all software produced today includes open source components, or is developed or hosted using open source tools. Even organizations that don't *make* software usually *use* software that contains open source compenents.
 
